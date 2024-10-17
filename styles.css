@@ -84,13 +84,6 @@ section{
     letter-spacing: 0.1rem;
 }
 
-.home-container {
-    background: url();
-    background-position:center ;
-    background-size:cover ;
-    background-repeat: no-repeat;
-}
-
 .home-container section {
     display: flex;
     align-items: center;
@@ -128,7 +121,7 @@ section{
 }
 
 .container-image{
-    background-image: url("/imagens/IMG_55022.jpeg");
+    background-image: url("./imagens/IMG_55022.jpeg");
     width: 450px;
     height: 450px;
     background-position-x: right;
